@@ -1,12 +1,5 @@
 [
   {
-    "name": "Al Jazeera",
     "stream_url": "https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8",
-    "logo": "https://yt3.googleusercontent.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s160-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "name": "beIN SPORTS 3",
-    "stream_url": "http://het115a.4rouwanda-shop.store/live/645587700/index.m3u8?t=qdBi_BdDX_DZvfYNwAt4KA&e=1749585668",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png"
   }
 ]
