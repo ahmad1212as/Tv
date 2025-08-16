@@ -1,5 +1,3 @@
-[
-  {
-    "stream_url": "https://games1.elahmad.online/tv752_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=60d8fb028e6985e1cca7894e237dee36350e0941-d44305d355b821f993c219a5f54b41ea-1753786619-1753775819",
-  }
-]
+{
+  "video_url": "https://example.com/video.mp4"
+}
