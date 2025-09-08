@@ -1,8 +1,18 @@
 {
-  "video_url": "https://www.youtube.com/watch?v=wOxgZCoXRiQ&list=RDwOxgZCoXRiQ&start_radio=1&ab_channel=SoulRhythm%E2%80%9C%F0%9F%8E%B6%E2%80%9D"
+  "className": "الأول ثانوي",
+  "subjects": [
+    {
+      "name": "الرياضيات",
+      "files": [
+        { "title": "الدرس الأول", "type": "pdf", "url": "https://example.com/file1.pdf" },
+        { "title": "حل التمارين", "type": "link", "url": "https://example.com/solution" }
+      ]
+    },
+    {
+      "name": "اللغة العربية",
+      "files": [
+        { "title": "القصيدة الأولى", "type": "image", "url": "https://example.com/img1.jpg" }
+      ]
+    }
+  ]
 }
-
-
-
-
-
